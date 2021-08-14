@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gladwin10
-- 👀 I’m interested in Data Science...
+-    I am interested in Data Science...
 
 <!---
 Gladwin10/Gladwin10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
